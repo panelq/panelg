@@ -3682,3 +3682,25 @@ p.content {
 .reviewer-bio p {
     font-size: 16px;
 }
+.features-img {
+	filter: hue-rotate(50deg);
+}
+img.homebg {
+	position: absolute;
+	opacity: 0.1;
+	/* filter: grayscale(1); */
+	max-width: 100%;
+	left: 0;
+	top: 15px;
+	bottom: 0;
+	min-width: 501px;
+}
+.g-head {
+	padding-bottom: 125px;
+}
+.loginForm {
+	background: #fff;
+	border-radius: 5px;
+	border: 2px solid #f1f1f1;
+	padding: 20px;
+		}
