@@ -607,7 +607,7 @@ p {
     .abt-plans1 img,
     .abt-plans2 img,
     .abt-plans3 img {
-        width: 350px;
+        max-width: 350px;
     }
     .abt-plans1 {
         padding: 20px 0 60px;
@@ -683,7 +683,7 @@ p {
     .abt-plans1 img,
     .abt-plans2 img,
     .abt-plans3 img {
-        width: 250px;
+        max-width: 250px;
         margin: 0 auto;
         display: block;
     }
@@ -3703,4 +3703,4 @@ img.homebg {
 	border-radius: 5px;
 	border: 2px solid #f1f1f1;
 	padding: 20px;
-		}
+}
